@@ -1,8 +1,8 @@
 Hvað gera eftirfarandi Linux skipanir?
-cd - bla
-ls - bla
-pwd - bla
-mkdir - bla
+cd - bla <br>
+ls - bla <br>
+pwd - bla <br>
+mkdir - bla <br>
 
 Hvað gera eftirfarandi Git skipanir?
 git clone

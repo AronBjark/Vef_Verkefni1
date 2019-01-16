@@ -1,23 +1,23 @@
-Hvað gera eftirfarandi Linux skipanir?
-cd - bla <br>
+Hvaï¿½ gera eftirfarandi Linux skipanir? <br>
+cd - change directory ... <br>
 ls - bla <br>
 pwd - bla <br>
 mkdir - bla <br>
 
-Hvað gera eftirfarandi Git skipanir?
+Hvaï¿½ gera eftirfarandi Git skipanir?
 git clone
 git status
 git diff
 
-Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+Hvaï¿½ gera eftirfarandi Git skipanir saman? Hvaï¿½a gagn er aï¿½ ï¿½eirri aï¿½gerï¿½?
 git log
 git checkout
 git branch
 
-Hvað er útgáfustýring (Version Control)?
+Hvaï¿½ er ï¿½tgï¿½fustï¿½ring (Version Control)?
 
-Hverjir eru helstu kostir við að nota GIT?
+Hverjir eru helstu kostir viï¿½ aï¿½ nota GIT?
 
-Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+Hversu oft telur ï¿½ï¿½ aï¿½ eigi aï¿½ gera fï¿½rslur (commit) ï¿½ verkefni?
 
-Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+Hvaï¿½ er ï¿½tt viï¿½ meï¿½ ï¿½Working Directoryï¿½?ï¿½ og ï¿½Staging Areaï¿½ ï¿½ GIT?

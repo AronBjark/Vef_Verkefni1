@@ -26,3 +26,4 @@ Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 
 
 Hvað er átt við með "Working Directory ?" og "Staging Area" í GIT?
+Git er rosa sniðugt þegar það virkar...
